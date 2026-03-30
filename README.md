@@ -8,6 +8,6 @@ Language:
 
 Structure:
 
-README -> Build goal
+-README -> Build goal
 
-main.py -> Implementation
+-main.py -> Implementation
