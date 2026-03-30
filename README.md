@@ -10,4 +10,4 @@ Structure:
 
 README -> Build goal
 
-main.py -> implementation
+main.py -> Implementation
